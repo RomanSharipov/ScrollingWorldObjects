@@ -2,6 +2,7 @@
 
 ![Video_2024_07_07-2](https://github.com/RomanSharipov/ScrollingWorldObjects/assets/82954950/8259ffb5-8ea7-426d-80d6-96cbd34974e9)
 
+Unity,C#
 
 The ScrollingWorldObject.cs script will help you scroll through any objects in the world,
 what is not on the canvas.
@@ -25,4 +26,4 @@ currentIndex is which of your objects will be in front of the camera at startup
 
 You can manually set the position of objects in height and distance from the camera directly on the stage (the script does not change these positions in any way)
 
-ATTENTION TO WORK YOU NEED the DOTWEEN plugin from AsetStore.
+WARNING TO WORK YOU NEED the DOTWEEN plugin from AsetStore.
