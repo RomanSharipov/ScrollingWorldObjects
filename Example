@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-public class test : MonoBehaviour
+public class Example : MonoBehaviour
 {
     [SerializeField] Button _nextButon;
     [SerializeField] Button _prevButon;
