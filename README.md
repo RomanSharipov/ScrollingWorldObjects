@@ -26,4 +26,4 @@ currentIndex is which of your objects will be in front of the camera at startup
 
 You can manually set the position of objects in height and distance from the camera directly on the stage (the script does not change these positions in any way)
 
-WARNING TO WORK YOU NEED the DOTWEEN plugin from AsetStore.
+WARNING TO WORK YOU NEED the DOTWEEN plugin from AssetStore.
